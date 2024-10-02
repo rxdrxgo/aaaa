@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="imagen">Imagen</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="rodrigo_gangas">Rodrigo Gangas</string>
+    <string name="titulo">Meteorologia</string>
+    <string name="sol">Sol</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="viento">Viento</string>
+    <string name="humedad">Humedad</string>
+    <string name="presion_atmosferica">Presion Atmosferica</string>
+    <string name="presion">Presion</string>
+</resources>
