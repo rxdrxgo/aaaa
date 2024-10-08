@@ -33,32 +33,32 @@
             android:layout_marginTop="10sp"
             android:fontFamily="@font/lato_regular"
             android:gravity="center_horizontal"
-            android:text="@string/presion_atmosferica"
+            android:text="@string/humedad"
             android:textColor="@color/white"
-            android:textSize="60sp" />
+            android:textSize="80sp" />
 
         <TextView
             android:id="@+id/num"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_above="@id/imageView7"
-            android:layout_marginStart="20dp"
+            android:layout_marginStart="110dp"
             android:layout_marginBottom="40dp"
-            android:text="@string/_1008_2"
+            android:text="@string/_60"
             android:textColor="@color/white"
-            android:textSize="70sp" />
+            android:textSize="100sp" />
 
         <TextView
             android:id="@+id/porciento"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_above="@id/imageView7"
-            android:layout_marginStart="20dp"
+            android:layout_marginStart="10dp"
             android:layout_marginBottom="40dp"
             android:layout_toEndOf="@id/num"
-            android:text="@string/hpa"
+            android:text="@string/porciento"
             android:textColor="@color/white"
-            android:textSize="70sp" />
+            android:textSize="100sp" />
 
 
         <ImageView
@@ -68,8 +68,8 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="50dp"
-            android:contentDescription="@string/presion"
-            app:srcCompat="@drawable/clock" />
+            android:contentDescription="@string/humedad"
+            app:srcCompat="@drawable/humedad" />
 
 
     </RelativeLayout>

@@ -10,4 +10,12 @@
     <string name="humedad">Humedad</string>
     <string name="presion_atmosferica">Presion Atmosferica</string>
     <string name="presion">Presion</string>
+    <string name="_1008_2">1008.2</string>
+    <string name="hpa">hpa</string>
+    <string name="_30">30</string>
+    <string name="c">°C</string>
+    <string name="_16">16</string>
+    <string name="km_h">Km/h</string>
+    <string name="porciento">%</string>
+    <string name="_60">60</string>
 </resources>
