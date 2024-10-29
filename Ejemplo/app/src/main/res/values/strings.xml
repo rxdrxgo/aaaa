@@ -18,4 +18,9 @@
     <string name="km_h">Km/h</string>
     <string name="porciento">%</string>
     <string name="_60">60</string>
+    <string name="volver">Volver</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="_0000">0000</string>
+    <string name="_00">00</string>
 </resources>

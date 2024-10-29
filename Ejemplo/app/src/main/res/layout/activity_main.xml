@@ -17,7 +17,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/titulo"
@@ -30,17 +30,15 @@
         android:contentDescription="@string/imagen"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="50sp"
         app:layout_constraintTop_toBottomOf="@id/titulo"
         app:srcCompat="@drawable/meteorologia"
         />
 
     <Button
         android:fontFamily="@font/lato_regular"
-        android:id="@+id/filledButton"
+        android:id="@+id/btnIniciar"
         android:layout_width="250dp"
         android:layout_height="60dp"
-
         app:layout_constraintBottom_toBottomOf="@id/rodrigo"
         android:layout_marginBottom="100dp"
         app:layout_constraintStart_toStartOf="parent"

@@ -13,6 +13,24 @@
         android:theme="@style/Theme.Ejemplo"
         tools:targetApi="31">
         <activity
+            android:name=".temp"
+            android:exported="false" />
+        <activity
+            android:name=".viento"
+            android:exported="false" />
+        <activity
+            android:name=".temperatura"
+            android:exported="false" />
+        <activity
+            android:name=".presion"
+            android:exported="false" />
+        <activity
+            android:name=".menu"
+            android:exported="false" />
+        <activity
+            android:name=".humedad"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
